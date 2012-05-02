@@ -1,0 +1,8 @@
+pailpipe.data.text.personal.create - Create personal text data.
+pailpipe.data.text.personal.modify - Modify your own text data.
+pailpipe.data.text.personal.delete - Delete your own text data.
+pailpipe.data.text.global.create - Create global text data.
+pailpipe.data.text.global.modify - Modify global text data you created.
+pailpipe.data.text.global.delete - Delete global text data you created.
+pailpipe.data.text.admin.global - Administrate global text data.
+pailpipe.data.text.admin.personal - Administrate personal text data.

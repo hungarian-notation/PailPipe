@@ -1,0 +1,21 @@
+name: PailPipe
+main: hafnium.bukkit.pail.pipe.PailPipe
+version: 1.0
+
+author: Hafnium
+website: pail.hafnium.ws
+
+softdepend: [ WorldEdit ]
+
+commands:
+    pail:
+        description: Pail Commands
+        usage: /pail help
+        aliases: [ p, pp ]
+    text:
+        description: Pail text data management
+        usage: /text help
+        aliases: [ txt, ptext, ptxt ]
+    area:
+        description: Pail area data management
+        usage: /area help
