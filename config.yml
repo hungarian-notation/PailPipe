@@ -1,4 +1,4 @@
-logging: true
+logging: false
 logs-to-maintain: 10
 
 send-usage-stats: true
