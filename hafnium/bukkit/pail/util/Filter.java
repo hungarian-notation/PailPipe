@@ -19,6 +19,8 @@
  */
 package hafnium.bukkit.pail.util;
 
+// Does this work?
+
 public interface Filter<T> {
 	public boolean accept(T item);
 }
